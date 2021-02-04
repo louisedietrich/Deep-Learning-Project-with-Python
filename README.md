@@ -6,7 +6,7 @@ We used the [NEU surface dataset](http://faculty.neu.edu.cn/yunhyan/NEU_surface_
 
 !()[steeldefects.JPG]
 
-We built and trained a Convolution Neural Network, resulting in a 96.3% accuracy in predicting the right defect class for the images of our testing set. 
+We have built and trained a Convolution Neural Network, resulting in a 96.3% accuracy in predicting the right defect class for the images of our testing set. 
 
 
 
