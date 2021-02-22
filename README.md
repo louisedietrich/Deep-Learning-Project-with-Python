@@ -8,5 +8,7 @@ We used the [NEU surface dataset](http://faculty.neu.edu.cn/yunhyan/NEU_surface_
 
 We have built and trained a Convolution Neural Network, resulting in a 96.3% accuracy in predicting the right defect class for the images of our testing set. 
 
+The Jupyter notebook containing the creation process of the CNN can be found in the Deep Learning Project Notebook.ipynb file.
+
 
 
